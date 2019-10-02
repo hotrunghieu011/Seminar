@@ -1,0 +1,14 @@
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\Model.dll.config
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\Model.dll
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\Model.pdb
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\EntityFramework.dll
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\EntityFramework.xml
+D:\seminar\finalProject\hotelManager\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.csproj.CopyComplete
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.dll
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.pdb
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.Migrations.initialization.resources
+D:\seminar\finalProject\hotelManager\Model\obj\Debug\Model.csproj.GenerateResource.cache
